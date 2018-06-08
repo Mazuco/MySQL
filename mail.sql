@@ -11,7 +11,7 @@ Arquivo ciado por Vitor Mazuco
 DROP TABLE IF EXISTS mail;_
 CREATE TABLE mail
 (
-  t       DATETIME,   --Hora de seu servidor! 
+  t       DATETIME,
   srcuser VARCHAR(8),  
   srchost VARCHAR(20),
   dstuser VARCHAR(8),  
