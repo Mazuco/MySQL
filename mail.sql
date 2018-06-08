@@ -8,7 +8,7 @@ Arquivo ciado por Vitor Mazuco
 
 */
 
-DROP TABLE IF EXISTS mail;_
+DROP TABLE IF EXISTS mail;
 CREATE TABLE mail
 (
   t       DATETIME,
