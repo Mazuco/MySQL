@@ -2,7 +2,7 @@
 
 /*
 
-Esse arquivo faz a criação de uma tabela mail com conteúdo aleatório
+Esse arquivo faz a criação de uma tabela expt com conteúdo aleatório e valores NULL
 
 Arquivo modificado por Vitor Mazuco
 
@@ -26,5 +26,4 @@ INSERT INTO expt (subject,test,score) VALUES('Artur','C',53);
 INSERT INTO expt (subject,test,score) VALUES('Artur','D',NULL);
 
 SELECT * FROM expt;
-
 
